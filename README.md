@@ -1,16 +1,19 @@
-## Hi there 👋
+# The
 
-<!--
-**wafturecity/wafturecity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Table of Matters
+* [Socials](#Socials)
+* a
+* 
 
-Here are some ideas to get you started:
+Exoscale 1st year apprentice (2026 -> 2030)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a name="Socials"></a>
+|Social|Name|Availability|
+|-|-|-|
+|Discord|wafturecity|Always|
+|Github|[wafturecity](https://github.com/wafturecity)|Sometimes|
+|osu!|[xeladirmymommy](https://osu.ppy.sh/users/19418252/osu)|Sometimes|
+|YouTube|[wafturecity](https://www.youtube.com/@wafturecity)|Rarely|
+|Anilist|[wafturecity](https://anilist.co/user/wafturecity)|Almost never
+|BeatLeader|[wafturecity](https://beatleader.com/u/waft/ranked)|Never|
+|WhatsApp||Private|
