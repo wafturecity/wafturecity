@@ -3,7 +3,7 @@
 ### Exoscale 1st year apprentice (2026 -> 2030)
 
 Table of Matters
-* [Here are some ideas to get you started}(#Ideas-to-get-started)
+* [Here are some ideas to get you started](#Ideas-to-get-started)
 * [Favorite Songs](#Songs)
 * [Socials](#Socials)
 * 
